@@ -49,7 +49,7 @@ This project predicts whether a customer will make a repeat purchase within the 
 ## Results
 - **Models Trained**: Logistic Regression, Random Forest, XGBoost.
 - **Evaluation Metrics**: 5-fold cross-validated F1-score and ROC-AUC on test set.
-- **Best Model**: Selected based on highest CV F1-score (XGBoost).
+- **Best Model**: Selected based on highest CV F1-score (XGBoost with Test F1: 0.5753 and Test AUC: 0.5400 ).
 - **Visualizations** (in `modeling.ipynb`):
   - ROC curves and confusion matrices for each model.
   - Feature importance chart for Random Forest and XGBoost.
