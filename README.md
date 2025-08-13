@@ -54,9 +54,7 @@ This project predicts whether a customer will make a repeat purchase within the 
   - ROC curves and confusion matrices for each model.
   - Feature importance chart for Random Forest and XGBoost.
 
-## API Hosting
-The API is deployed on Render. Test endpoint:
-- **URL**: `<your-render-url>/predict`
+## API Example
 - **Method**: POST
 - **Example Payload**:
   ```json
