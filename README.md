@@ -92,3 +92,10 @@ The API is deployed on Render. Test endpoint:
 - **Scalable Processing**: PySpark used for preprocessing.
 - **Deployment**: FastAPI serves the best model, saved as `.pkl`.
 - For further improvements, hyperparameter tuning or additional data.
+
+
+## View as Live API
+You can access and test the deployed API directly via Hugging Face Spaces:
+
+- Base URL: https://yugratna-customer-purchase-api.hf.space
+- Swagger UI (Interactive Docs): https://yugratna-customer-purchase-api.hf.space/docs
