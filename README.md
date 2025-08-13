@@ -71,7 +71,7 @@ The API is deployed on Render. Test endpoint:
    "avg_order_value": 45000.00,
    "preferred_category": "Clothing"
 }
-  ```
+
 - **Example Response**:
   ```json
   {
